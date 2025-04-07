@@ -1,0 +1,1 @@
+{"modelCheckResultList":[{"backwardTransitions":[[]],"probability":0.9999979600400001,"expectedMessages":4.0,"id":589873731,"epochTimestamp":1744029150717}],"specification":[[1,1,1,1],[1,0,1,1],[1,1,1,0],[1,0,1,0],[1,1,1,1],[1,1,0,1],[1,1,1,0],[1,1,0,0],[1,1,1,1],[0,1,1,1],[1,0,1,1],[0,0,1,1],[1,1,0,1],[0,1,0,1],[1,0,0,1],[0,0,0,1]],"organizations":["Org1","Org2","Org3","Org4"]}
